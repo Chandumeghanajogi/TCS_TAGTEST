@@ -11,7 +11,7 @@ This repo documents my journey to cracking the TCS TAG Test, using Python.
 | Day   | Date       | Problem                  |
 |-------|------------|--------------------------|
 | Day 1 | 10-12-2025 | Move zeroes to the end   |
-                     |                          |
+                                          
 
 ---
 
